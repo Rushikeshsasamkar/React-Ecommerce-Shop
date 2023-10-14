@@ -1,8 +1,8 @@
-<h1><a href="https://react-ecommerce-shop-tau.vercel.app/" >CartWave E-Commerce Web App 🛒🌐</a></h1>
+<h1><a href="https://react-ecommerce-shop-tau.vercel.app/" > E-Commerce Web App 🛒🌐</a></h1>
 
 Welcome to the repository of our E-Commerce web application, CartWave, built with React.js, Node.js, and MongoDB. This project showcases a feature-rich online shopping experience with various functionalities to provide an excellent user experience. 🚀
 
-<h2>CartWave E-Commerce Web App</h2>
+<h2> E-Commerce Web App</h2>
 
 CartWave is your go-to destination for a seamless online shopping experience. Whether you're a shopper looking for the latest trends or an admin managing the store, CartWave has you covered.
 
@@ -80,4 +80,31 @@ Authentication: JSON Web Tokens (JWT)
 Getting Started
 
 # Screenshots
+
+# 1. Homepage
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/4f2e054a-8c6d-43a4-9691-41270eadb997)
+
+# 2. Sign-up Page
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/d3685964-b0d2-49b4-bf0b-55252fe8dc8d)
+
+# 3. Login-page
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/6a75a7b8-4b6e-4b77-b0a9-853736ca24cb)
+
+# 4. Products
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/549a8da1-e25c-4c25-bbee-0cf9b28d875b)
+
+# 5. Add to cart
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/4776d6d5-7bfd-471d-9e3d-0753f21e8b35)
+
+# 6. Order Placed
+
+![image](https://github.com/Rushikeshsasamkar/React-Ecommerce-Shop/assets/44942941/e77faa5a-8da1-41fe-8785-4867dbedef64)
+
+
+
 
