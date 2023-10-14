@@ -1,4 +1,4 @@
-<h1><a href="https://cartwave.netlify.app/" >CartWave E-Commerce Web App 🛒🌐</a></h1>
+<h1><a href="https://react-ecommerce-shop-tau.vercel.app/" >CartWave E-Commerce Web App 🛒🌐</a></h1>
 
 Welcome to the repository of our E-Commerce web application, CartWave, built with React.js, Node.js, and MongoDB. This project showcases a feature-rich online shopping experience with various functionalities to provide an excellent user experience. 🚀
 
@@ -79,44 +79,5 @@ Authentication: JSON Web Tokens (JWT)
 
 Getting Started
 
-To get started with CartWave, follow these steps:
+# Screenshots
 
-Clone this repository: 
-
-**Frontend**
-
-git clone [https://github.com/your-username/cartwave.git](https://github.com/faisalkhandev/cartwave-e-commerce-web-app-)
-
-**Backend**
-
-git clone https://github.com/faisalkhandev/cartwaveBackend
-
-
-****Install the required dependencies:****
-
-For the frontend, navigate to the frontend directory and run npm install.
-
-For the backend, navigate to the backend directory and run npm install.
-
-Configure your environment variables.
-
-Start both the frontend and backend servers.
-
-********Usage********
-
-Please refer to the documentation for detailed usage instructions and API endpoints.
-
-[Authentication](https://github.com/faisalkhandev/cartwaveBackend)
-
-CartWave utilizes JSON Web Tokens (JWT) for user authentication. Ensure you have the necessary configuration in place for secure authentication and authorization.
-
-**APIs**
-
-The backend of this project provides a comprehensive set of APIs to manage products, users, and orders. Refer to the API documentation for more details.
-
-**Contributing**
-
-We welcome contributions to improve and expand the functionality of CartWave. Feel free to open issues, suggest features, or submit pull requests.
-
-
-**Thank you for checking out CartWave! We hope you find it useful and inspiring for your own projects. If you have any questions or feedback, please don't hesitate to reach out. Happy shopping and coding! 👩‍💻👨‍💻**
