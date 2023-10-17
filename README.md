@@ -4,7 +4,7 @@ Welcome to the repository of our E-Commerce web application, CartWave, built wit
 
 <h2> E-Commerce Web App</h2>
 
-CartWave is your go-to destination for a seamless online shopping experience. Whether you're a shopper looking for the latest trends or an admin managing the store, CartWave has you covered.
+E-Cart is your go-to destination for a seamless online shopping experience. Whether you're a shopper looking for the latest trends or an admin managing the store, E-cart has you covered.
 
 **Features**
 
