@@ -6,8 +6,8 @@ const HeroSection = ({ title, subtitle, image, link }) => {
   return (
     <section className="hero_section">
       <div className="align_center">
-        <h2 className="hero_heading">E-Cart</h2>
-        <p className="hero_subheading">E-cart</p>
+        <h2 className="hero_heading">{title}</h2>
+        <p className="hero_subheading">{subtitle}</p>
         <Link to={link} className="hero_link">
           Buy Now
         </Link>
