@@ -1,6 +1,6 @@
 <h1><a href="https://react-ecommerce-shop-tau.vercel.app/" > E-Commerce Web App 🛒🌐</a></h1>
 
-Welcome to the repository of our E-Commerce web application, CartWave, built with React.js, Node.js, and MongoDB. This project showcases a feature-rich online shopping experience with various functionalities to provide an excellent user experience. 🚀
+Welcome to the repository of our E-Commerce web application, E-Cart, built with React.js, Node.js, and MongoDB. This project showcases a feature-rich online shopping experience with various functionalities to provide an excellent user experience. 🚀
 
 <h2> E-Commerce Web App</h2>
 
